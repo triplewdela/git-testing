@@ -1,4 +1,5 @@
-# git-test
+# [git-testing]
 
-Hello Odin!
-Hello fellow Asguardians!
+**Goal**
+
+* Deepen my understanding of Git!
